@@ -58,19 +58,19 @@
     "url": "https://springwood.me",
     "icon": "https://favicons.githubusercontent.com/springwood.me",
     "slug": "springwood",
-    "status": "down",
-    "uptime": "10.19%",
-    "uptimeDay": "10.19%",
-    "uptimeWeek": "10.19%",
-    "uptimeMonth": "10.19%",
-    "uptimeYear": "10.19%",
-    "time": 15268,
-    "timeDay": 15268,
-    "timeWeek": 15268,
-    "timeMonth": 15268,
-    "timeYear": 15268,
+    "status": "up",
+    "uptime": "1.29%",
+    "uptimeDay": "1.29%",
+    "uptimeWeek": "1.29%",
+    "uptimeMonth": "1.29%",
+    "uptimeYear": "1.29%",
+    "time": 10607,
+    "timeDay": 10607,
+    "timeWeek": 10607,
+    "timeMonth": 10607,
+    "timeYear": 10607,
     "dailyMinutesDown": {
-      "2021-06-21": 7
+      "2021-06-21": 63
     }
   }
 ]
