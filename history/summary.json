@@ -40,9 +40,9 @@
     "url": "https://cottonfgd.org",
     "icon": "https://favicons.githubusercontent.com/cottonfgd.org",
     "slug": "cotton-fgd",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 1727,
     "timeMonth": 1727,
     "timeYear": 1727,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-24": 0
+    }
   },
   {
     "name": "Springwood",
@@ -59,11 +61,11 @@
     "icon": "https://favicons.githubusercontent.com/springwood.me",
     "slug": "springwood",
     "status": "up",
-    "uptime": "90.77%",
+    "uptime": "92.03%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "90.77%",
-    "uptimeMonth": "90.77%",
-    "uptimeYear": "90.77%",
+    "uptimeWeek": "92.03%",
+    "uptimeMonth": "92.03%",
+    "uptimeYear": "92.03%",
     "time": 4588,
     "timeDay": 387,
     "timeWeek": 4588,
