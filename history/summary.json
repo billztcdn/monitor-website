@@ -22,9 +22,9 @@
     "url": "https://en.wikipedia.org",
     "icon": "https://favicons.githubusercontent.com/en.wikipedia.org",
     "slug": "wikipedia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 213,
     "timeMonth": 228,
     "timeYear": 228,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-16": 0
+    }
   },
   {
     "name": "CottonFGD",
@@ -65,18 +67,18 @@
     "icon": "https://favicons.githubusercontent.com/springwood.me",
     "slug": "springwood",
     "status": "down",
-    "uptime": "99.01%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.01%",
-    "uptimeYear": "99.01%",
+    "uptime": "98.91%",
+    "uptimeDay": "97.39%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "98.91%",
+    "uptimeYear": "98.91%",
     "time": 2030,
     "timeDay": 8098,
     "timeWeek": 2394,
     "timeMonth": 2030,
     "timeYear": 2030,
     "dailyMinutesDown": {
-      "2021-07-16": 0,
+      "2021-07-16": 38,
       "2021-06-22": 294,
       "2021-06-21": 63
     }
