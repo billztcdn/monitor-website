@@ -11,6 +11,8 @@ sites:
     url: https://cottonfgd.org
   - name: Springwood
     url: https://springwood.me
+  - name: Springwood-JP
+    url: https://jp.springwood.me
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
