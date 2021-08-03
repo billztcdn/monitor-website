@@ -73,11 +73,11 @@
     "icon": "https://favicons.githubusercontent.com/springwood.me",
     "slug": "springwood",
     "status": "up",
-    "uptime": "85.76%",
+    "uptime": "85.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "80.83%",
-    "uptimeYear": "85.76%",
+    "uptimeYear": "85.80%",
     "time": 1523,
     "timeDay": 443,
     "timeWeek": 488,
@@ -100,9 +100,9 @@
     "url": "https://jp.springwood.me",
     "icon": "https://favicons.githubusercontent.com/jp.springwood.me",
     "slug": "springwood-jp",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -111,6 +111,8 @@
     "timeWeek": 485,
     "timeMonth": 512,
     "timeYear": 512,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-03": 0
+    }
   }
 ]
