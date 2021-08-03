@@ -100,19 +100,19 @@
     "url": "https://jp.springwood.me",
     "icon": "https://favicons.githubusercontent.com/jp.springwood.me",
     "slug": "springwood-jp",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 512,
-    "timeDay": 470,
-    "timeWeek": 485,
-    "timeMonth": 512,
-    "timeYear": 512,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 505,
+    "timeDay": 446,
+    "timeWeek": 477,
+    "timeMonth": 505,
+    "timeYear": 505,
     "dailyMinutesDown": {
-      "2021-08-03": 0
+      "2021-08-03": 12
     }
   }
 ]
