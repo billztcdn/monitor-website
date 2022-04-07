@@ -49,18 +49,19 @@
     "url": "https://cottonfgd.org",
     "icon": "https://favicons.githubusercontent.com/cottonfgd.org",
     "slug": "cotton-fgd",
-    "status": "up",
-    "uptime": "99.05%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.06%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "96.09%",
     "uptimeMonth": "91.62%",
-    "uptimeYear": "99.05%",
+    "uptimeYear": "99.06%",
     "time": 2573,
     "timeDay": 1074,
-    "timeWeek": 1775,
+    "timeWeek": 1810,
     "timeMonth": 2300,
     "timeYear": 2573,
     "dailyMinutesDown": {
+      "2022-04-07": 0,
       "2022-04-05": 20,
       "2022-04-04": 61,
       "2022-04-03": 91,
@@ -85,8 +86,7 @@
       "2022-03-10": 7,
       "2022-03-08": 482,
       "2022-03-07": 228,
-      "2022-03-06": 254,
-      "2022-03-05": 19
+      "2022-03-06": 254
     }
   },
   {
